@@ -6,7 +6,7 @@ int main(){
     // ->The moment one condition is true, the rest are skipped completely.
     // ->This is what you meant by: "if one runs, others won’t be checked" 
     // ->not compulsory to write else if we dont need it 
-    // -> if there is no else and all other condition ( if and else if ) are not true then there is not output 
+    // -> if there is no else and all other condition ( if and else if ) are not true then there is no output 
 
     int a,b,c;
     cout<<"Enter the a : "<<endl;

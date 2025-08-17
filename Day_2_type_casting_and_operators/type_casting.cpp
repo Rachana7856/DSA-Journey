@@ -17,6 +17,6 @@ int main(){
     cout<<"Enter a number :"<<endl;
     cin>>z;
     cout<<"The number is "<<z<<endl;
-    
+
     return 0;
 }

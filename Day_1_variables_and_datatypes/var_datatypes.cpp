@@ -2,7 +2,7 @@
 using namespace std;
 int main(){
     cout<<"Hello world "<<endl;
-    cout<<"my world\n";           // my world
+    cout<<"my world\n";           // my world        (comments)
     
     string c = "yes";
     char b='a';
